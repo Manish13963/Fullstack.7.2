@@ -1,2 +1,2 @@
-# Fullstack.7.2
-Learn how to use Redux Toolkit to manage global application state in a React project, focusing on implementing a shopping cart. This task helps you understand slices, actions, reducers, and connecting React components to a Redux store efficiently using modern Redux Toolkit practices.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/81b044ab-341e-486b-874f-1770fd5ccffb" />
